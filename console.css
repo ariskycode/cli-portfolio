@@ -1,0 +1,23 @@
+body {
+    font-family: 'Inconsolata', monospace;
+    color: greenyellow;
+    background-color: black;
+    font-size:18px;
+}
+
+#welcome {
+    text-align: left;
+}
+
+.cli {
+    background: black;
+    border: none;
+    color: white;
+    font-size: 18px;
+    color: white;
+    font-family: monospace;
+}
+
+input:focus {
+    outline-width: 0px;
+}
